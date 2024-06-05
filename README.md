@@ -1,2 +1,10 @@
-# portfolio-6sem-prog
-Портфолио по лабораторным работам по программированию за 6 (шестой) семестр.
+# Портфолио работ за 6 семестр:
+## [Лабораторная работа №1-2](https://replit.com/@gabyshut/lr1-2ClassicIntelligentEvaluations#main.py)
+## [Лабораторная работа №3](https://replit.com/@gabyshut/sem6-t1-lr3)
+## [Лабораторная работа №4](https://colab.research.google.com/drive/1ffeTVa9A9vwl9dsCNucKujBZMvTGW-MN?usp=sharing)
+## [Лабораторная работа №5](https://colab.research.google.com/drive/1ffeTVa9A9vwl9dsCNucKujBZMvTGW-MN?usp=sharing)
+## [Лабораторная работа №6.1](https://colab.research.google.com/drive/1julfqDu8VkBPVchAZeDEBaFbWbOj9YYZ?usp=sharing)
+## [Лабораторная работа №6.2](https://colab.research.google.com/drive/1mjTrK_mnG3zk6Q5FTULaMdt_qCoi7OEJ?usp=sharing)
+## [Лабораторная работа №7](https://colab.research.google.com/drive/1UoZ6wo0iVv9WgqZCZYyOobg_gqjIM62y?usp=sharing)
+## [Лабораторная работа №8](https://docs.google.com/document/d/18De720HvBb1O_FR_GfffmPmpgboIZu6B/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true)
+## [Лабораторная работа №9](https://docs.google.com/document/d/1WLKy-e5cj8gS1fwXrUo2d1iz9O4-lrqx/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true)
