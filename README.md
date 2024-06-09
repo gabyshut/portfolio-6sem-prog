@@ -8,3 +8,4 @@
 ## [Лабораторная работа №7](https://colab.research.google.com/drive/1UoZ6wo0iVv9WgqZCZYyOobg_gqjIM62y?usp=sharing)
 ## [Лабораторная работа №8](https://docs.google.com/document/d/18De720HvBb1O_FR_GfffmPmpgboIZu6B/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true)
 ## [Лабораторная работа №9](https://docs.google.com/document/d/1WLKy-e5cj8gS1fwXrUo2d1iz9O4-lrqx/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true)
+## [Презентация библиотеки Python Bokeh](https://colab.research.google.com/drive/1JQK9dhWQXY9-CDwFc61oivnz5YOC0bPu#scrollTo=ifF9MnFI8bBo)
